@@ -1,0 +1,2 @@
+# Kuromi
+ai foundations 
